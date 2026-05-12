@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 240" width="1280" height="240">
+  <rect width="1280" height="240" fill="#07120D"/>
+  <text x="640" y="38" font-family="Georgia, serif" font-style="italic" font-size="22" text-anchor="middle" fill="#E8F2EA">Forest theme — Михайловское в сумерки</text>
+
+  <!-- 6 color swatches -->
+  <g transform="translate(120 70)">
+    <rect width="160" height="120" rx="12" fill="#07120D" stroke="#3FBC8C" stroke-width="0.5"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#07120D · bg</text>
+  </g>
+  <g transform="translate(296 70)">
+    <rect width="160" height="120" rx="12" fill="#0E1C16" stroke="#3FBC8C" stroke-width="0.5"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#0E1C16 · surface</text>
+  </g>
+  <g transform="translate(472 70)">
+    <rect width="160" height="120" rx="12" fill="#3FBC8C"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#3FBC8C · emerald</text>
+  </g>
+  <g transform="translate(648 70)">
+    <rect width="160" height="120" rx="12" fill="#D8B976"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#D8B976 · honey</text>
+  </g>
+  <g transform="translate(824 70)">
+    <rect width="160" height="120" rx="12" fill="#E8F2EA"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#E8F2EA · text</text>
+  </g>
+  <g transform="translate(1000 70)">
+    <rect width="160" height="120" rx="12" fill="#7B9485"/>
+    <text x="80" y="155" text-anchor="middle" font-family="'Space Grotesk', Inter, sans-serif" font-size="11" fill="#E8F2EA">#7B9485 · mist</text>
+  </g>
+</svg>
